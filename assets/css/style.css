@@ -273,6 +273,19 @@ footer {
   }
 }
 
+.footer-logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;padding:1rem;
+
+}
+.footer-logo img{
+  border-radius: 50%;
+  height:10rem;
+  width:10rem;
+  
+}
+
 :root {
   /**
    * colors
